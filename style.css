@@ -1,0 +1,137 @@
+.about{
+    padding-left: 50px;
+    padding-top: 40px;
+    
+
+}
+.myimage{
+    padding-left: 200px;
+}
+.us{
+    padding-left: 100px;
+    color: red;
+}
+.info{
+    background-color: red;
+}
+.bot{
+    background-color: red;
+    border-radius: 40px;
+    
+}
+#topnav{
+    background-color: rgb(235,41,41);
+}
+.tab{
+    height: 55px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.text{
+    color: white;
+    font: 1em sans-serif;
+}
+.padding{
+    padding-left: 10px;
+
+}
+.padding2{
+    padding-left: 100px;
+}
+.padding3{
+    padding-left: 80px;
+}
+.color{
+    background-color: rgb(219, 233, 230);
+}
+.space{
+    margin-bottom: 60px;
+}
+.height{
+    height: 450px;
+}
+.aboutus{
+    background-color: rgb(26, 24, 51);
+    height: 350px;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+
+}
+.bg{
+    height: 90px;
+    background-color: rgb(234, 240, 247);
+    width: 500px;
+    padding-left: 150px;
+    text-align:start;
+}
+.bg1{
+    background-color: rgb(235, 241, 241);
+}
+.icons{
+    height: 150px;
+    width: 150px;
+    margin-left: 60px;
+}
+
+.footer{
+    background-color: black;
+    padding: 70px 0;
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.ist{
+    padding-left: 10px;
+}
+.texts{
+    color: white;
+}
+.heads{
+    color: red;
+}
+
+.footer{
+    background-color: black;
+    min-height: 300px;
+}
+.list{
+    list-style: none;
+    width: 300px;
+    
+}
+.list li{
+    margin: 30px;
+    font-size: 15px;
+}
+.list li a{
+    text-decoration: none;
+    color: white;
+}
+.list li a i{
+    color: #e82929;
+}
+.list li a:hover{
+    color: #e82929;
+}
+
+.copyright{
+    background-color: black;
+    height: 100px;
+    border-top: 2px solid white;
+}
+.links ul li a:hover{
+    color: #f3fafc;
+}
+body{
+    z-index: -1;
+}
+.tables{
+    padding-right: 100px;
+}
+
